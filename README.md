@@ -1,4 +1,4 @@
-# chat_sql
+# qna_sql
 
 A project to build a question and answer system over SQL database using natural language prompt. This allows a user to ask questions about structured data contained in databases without using SQL queries.
 
