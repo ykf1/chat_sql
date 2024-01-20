@@ -7,3 +7,4 @@ Concepts used in the project:
 - retrievers as tools - used to help the LLM to create the sql query accurately
 - few-shot prompting - use of example sql queries
 - chain of thought prompting - enable agent to reason step by step
+- LangChain as framework
